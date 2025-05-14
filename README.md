@@ -2,6 +2,8 @@
 
 O objetivo deste projeto é aplicar técnicas de pré-processamento para preparar uma base de dados bancária com foco na futura previsão do **score de crédito**, que é um sistema de pontuação que reflete o histórico de crédito e a probabilidade de um indivíduo pagar suas dívidas. Trata-se de uma métrica essencial para auxiliar instituições financeiras na tomada de decisão sobre a concessão de crédito.
 
+Este projeto está em andamento. A próxima etapa será a construção e avaliação de modelos preditivos para estimar o score de crédito com base nos dados tratados.
+
 ## Bibliotecas utilizadas
 
 - `pandas`, `numpy`
